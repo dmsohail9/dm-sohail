@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dm-sohail/static/css/main.c62cd51d.css",
+    "main.js": "/dm-sohail/static/js/main.f13e5d57.js",
+    "static/js/787.bcac2fd3.chunk.js": "/dm-sohail/static/js/787.bcac2fd3.chunk.js",
+    "static/media/logo.svg": "/dm-sohail/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dm-sohail/index.html",
+    "main.c62cd51d.css.map": "/dm-sohail/static/css/main.c62cd51d.css.map",
+    "main.f13e5d57.js.map": "/dm-sohail/static/js/main.f13e5d57.js.map",
+    "787.bcac2fd3.chunk.js.map": "/dm-sohail/static/js/787.bcac2fd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c62cd51d.css",
+    "static/js/main.f13e5d57.js"
+  ]
+}
